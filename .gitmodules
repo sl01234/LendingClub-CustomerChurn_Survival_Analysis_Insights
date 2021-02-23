@@ -1,0 +1,3 @@
+[submodule "capstone_lending_club"]
+	path = capstone_lending_club
+	url = https://github.com/ValleyRobotics/capstone_lending_club
